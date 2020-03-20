@@ -70,3 +70,16 @@ body {
     border-top: none;
 }
 
+.RoleBox{
+    width:20em;
+    margin: auto;
+    border:black solid 2px;
+    border-radius: 5%; 
+    display: inline-block;
+}
+
+#Website{
+    display: inline-block;
+}
+
+
